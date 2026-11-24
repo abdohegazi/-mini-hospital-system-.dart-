@@ -26,4 +26,8 @@ class Hospital {
       serch.displayinfo();
     }
   }
+
+  void bookAppointment() {
+    print('Appointment booked successfully.');
+  }
 }
